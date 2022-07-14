@@ -35,14 +35,16 @@ import hvplot.pandas
 
 Interactive visualization was used to help to determine investment opportunities.
 
-<video width="320" height="240" controls>
-  <source src="images/voila_demo_1.mp4" type="video/mp4">
-</video>
+
 
 
 
 
 ---
+
+https://user-images.githubusercontent.com/104316958/178910232-64781278-d22c-45b8-af87-158df2fbbd56.mp4
+
+
 
 ## Contributors
 
