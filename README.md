@@ -46,11 +46,7 @@ https://user-images.githubusercontent.com/104316958/178911528-3e329692-aab8-420e
 
 
 
-
-
 ---
-
-https://user-images.githubusercontent.com/104316958/178910232-64781278-d22c-45b8-af87-158df2fbbd56.mp4
 
 
 
