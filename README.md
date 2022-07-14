@@ -27,6 +27,8 @@ libraries can be imported with the following code.
 import pandas as pd
 
 import hvplot.pandas
+
+import sqalchemy
 ```
 ---
 
