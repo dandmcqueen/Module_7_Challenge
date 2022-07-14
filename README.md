@@ -37,6 +37,14 @@ Interactive visualization was used to help to determine investment opportunities
 
 
 
+https://user-images.githubusercontent.com/104316958/178911513-9e851c57-d275-4e09-8755-f5f12cc66705.mp4
+
+
+
+https://user-images.githubusercontent.com/104316958/178911528-3e329692-aab8-420e-bdf7-fccfb74941d1.mp4
+
+
+
 
 
 
