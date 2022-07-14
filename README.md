@@ -1,10 +1,8 @@
 # Module 7 Challenge
 
-This project analyzes housing investment opportunities in the San Francisco area.  Housing units are totaled by year from 2010 to 2016,
+In this project, a financial database and web application is built by using SQL, Python, and the Voilà library.
 
-along with the sale price per square foot and average gross rent. Data is plotted on interactive maps and analyzed to determine
-
-possible areas to implement a new one-click service to buy and rent properties.
+The database is used to analyze an ETF portfolio, specifically the daily returns, annualized returns, and cumulative returns.
 
 ---
 
@@ -15,6 +13,7 @@ This project uses Python 3.9.7 and the following libraries -
 |----|----|---|
 | pandas |1.4.2| [pandas docs](https://pandas.pydata.org/docs)
 | hvplot |0.8.0| [hvplot docs](https://hvplot.holoviz.org/)
+| sqalchemy |1.4.22| [sqalchemy docs](https://docs.sqlalchemy.org/en/14/)
 
 
 
@@ -33,7 +32,7 @@ import hvplot.pandas
 
 ## Usage
 
-Interactive visualization was used to help to determine investment opportunities.
+Voilà can be used to run the project as a web app.
 
 
 
